@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">tarea</string>
+    <string name="nombre">Guerrero Cruz Juan Manuel</string>
+    <string name="matricula">167010016</string>
+    <string name="grupo">7T11</string>
+    <string name="profesor">Victor Hugo Martinez De la O</string>
+    <string name="carrera">ITIC\'s</string>
+    <string name="materia">Dearrollo de aplicaciones</string>
+</resources>
